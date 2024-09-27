@@ -9,7 +9,7 @@ const info = {
   site:`jason.richmond.is`,
   phone:`574.855.6954`,
   text: [
-    `Software Engineer with a Master’s in Computer Science familiar with a diverse array of languages and platforms seeking opportunity to build upon eight years experience crafting applications and solving problems in startup and academic settings`,
+    `Software Engineer with a Master’s in Computer Science familiar with a diverse array of languages and platforms and a love for teaching seeking a return to the art of cultivating programming knowledge in the next generation`,
   ]
 }
 const ed = {
@@ -37,7 +37,7 @@ const ed = {
   }
 }
 const work = {
-  name: `Professional Experience`,
+  name: `Experience`,
   aun: {
     name:`Aunalytics`,
     role:`Software Engineer`,
@@ -88,17 +88,17 @@ const craft = {
         `Typescript`,
         `HTML/CSS`,
         `Python`,
-        `Mojo`,
+        `Rust`,
         `Go`,
         `Swift`,
-        `Supercollider`,
-        `CSound`,
         `C`,
         `C++`,
         `C#`,
         `Java`,
         `SQL`,
         `Assembly`,
+        `Supercollider`,
+        `CSound`,
       ]
     },
     meth: {
@@ -109,7 +109,6 @@ const craft = {
         `Agile`,
         `Scrum`,
         `Kanban`,
-        `Gang of Four Design Patterns`,
       ]
     },
     tool: {
@@ -132,6 +131,7 @@ const craft = {
         `Exasol`,
         `Alluxio`,
         `Jira`,
+        `GPTs`,
       ]
     },
     doms: {
